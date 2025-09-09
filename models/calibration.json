@@ -1,0 +1,5 @@
+{
+    "alpha": 0.5,
+    "thresh_low": 0.2,
+    "thresh_high": 0.3
+}
