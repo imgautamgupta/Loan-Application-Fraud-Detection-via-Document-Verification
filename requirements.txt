@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+numpy
+scikit-learn
+xgboost
+pymongo
+opencv-python
+spacy
+PyPDF2
+python-multipart
+base64
